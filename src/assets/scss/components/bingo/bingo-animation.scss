@@ -18,7 +18,7 @@
 
         img {
             position: absolute;
-            left: 50px;
+            left: 30px;
             width: 600px;
             visibility: visible !important;
         }
@@ -30,6 +30,7 @@
             left: 50%;
             transform: translateX(-50%);
             opacity: 0;
+            color: white;
         }
         
         table {

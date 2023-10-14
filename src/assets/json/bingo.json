@@ -31,137 +31,137 @@
         ],
         [
             {
-                "text": "Es wird etwas mit Weißwein abgelöscht",
+                "text": "Jemand verletzt sich (stark)",
                 "color": "yellow",
                 "selected": false
             },
             {
-                "text": "Schwarz/Weiß Blende",
+                "text": "Kopfballtor",
                 "color": "yellow",
                 "selected": false
             },
             {
-                "text": "Klimbim Kladderadatsch",
+                "text": "Latte",
                 "color": "yellow",
                 "selected": false
             },
             {
-                "text": "Tuten und Blasen/Damokles",
-                "color": "yellow",
-                "selected": false
-            },
-            {
-                "text": "Von dem Stress ind er Küche kriegen die Testesser nichts mit",
-                "color": "yellow",
-                "selected": false
-            }
-        ],
-        [
-            {
-                "text": "Sose x5",
+                "text": "Tore",
                 "color": "yellow",
                 "selected": false,
                 "multiSelectNumber": 5
             },
             {
-                "text": "Die Inhaber sind verschuldet",
-                "color": "yellow",
-                "selected": false
-            },
-            {
-                "text": "Flo oder Willi kommt",
-                "color": "yellow",
-                "selected": false
-            },
-            {
-                "text": "Restaurant hat noch offen",
-                "color": "yellow",
-                "selected": false
-            },
-            {
-                "text": "Frank macht einen schlechten Witz",
+                "text": "SIUUUUU",
                 "color": "yellow",
                 "selected": false
             }
         ],
         [
             {
-                "text": "Es weint jemand",
+                "text": "Flitzer",
                 "color": "yellow",
                 "selected": false
             },
             {
-                "text": "Nach dem 1. Testessen wird geglaubt man habe sehr gut abgeschnitten",
+                "text": "Chefstrobel wird gefronted",
                 "color": "yellow",
                 "selected": false
             },
             {
-                "text": "5er Sub Bombe kommt rein",
+                "text": "Pfosten",
                 "color": "yellow",
                 "selected": false
             },
             {
-                "text": "Frank braucht mal 5 Minuten",
+                "text": "Alex schießt ein Tor",
                 "color": "yellow",
                 "selected": false
             },
             {
-                "text": "Mega x3",
+                "text": "Fehlentscheidung",
+                "color": "yellow",
+                "selected": false
+            }
+        ],
+        [
+            {
+                "text": "Elfmeter wird verschossen",
+                "color": "yellow",
+                "selected": false
+            },
+            {
+                "text": "Nici kann es nicht dassen",
+                "color": "yellow",
+                "selected": false
+            },
+            {
+                "text": "5er Subgifts",
+                "color": "yellow",
+                "selected": false
+            },
+            {
+                "text": "Schlechter Witz",
+                "color": "yellow",
+                "selected": false
+            },
+            {
+                "text": "Ecke x5",
                 "color": "yellow",
                 "selected": false,
-                "multiSelectNumber": 3
+                "multiSelectNumber": 5
             }
         ],
         [
             {
-                "text": "Es werden Tütenprodukte verwendet",
+                "text": "Chefstrobel fällt hin",
                 "color": "yellow",
                 "selected": false
             },
             {
-                "text": "Rosin zwinkert",
+                "text": "Abseits",
                 "color": "yellow",
                 "selected": false
             },
             {
-                "text": "Rosin geht mit Finger in die Soße",
+                "text": "Max schießt ein Tor",
                 "color": "yellow",
                 "selected": false
             },
             {
-                "text": "Rosin wird touchy",
+                "text": "Max sagt geil",
                 "color": "yellow",
                 "selected": false
             },
             {
-                "text": "Bei Rosin kickts",
+                "text": "Mit Schiri wird diskutiert",
                 "color": "yellow",
                 "selected": false
             }
         ],
         [
             {
-                "text": "Rosin geht im eigenen Restaurant kochen",
+                "text": "Rote Karte",
                 "color": "yellow",
                 "selected": false
             },
             {
-                "text": "Seine Sterne werden erwähnt",
+                "text": "Freistoßtor",
                 "color": "yellow",
                 "selected": false
             },
             {
-                "text": "Ein Testesser sagt das Fleisch sei trocken",
+                "text": "Gelbe Karte",
                 "color": "yellow",
                 "selected": false
             },
             {
-                "text": "Die Rezepte kann man auf Kabeleins.de nachlesen",
+                "text": "Hardstuck gewinnt",
                 "color": "yellow",
                 "selected": false
             },
             {
-                "text": "Die Wände werden grau gestrichen",
+                "text": "Rumathra Shoutout",
                 "color": "yellow",
                 "selected": false
             }
