@@ -9,161 +9,89 @@
     "bingo": [
         [
             {
-                "text": "B",
-                "fixed": true
+                "text": "Jemand verletzt sich (stark)"
             },
             {
-                "text": "I",
-                "fixed": true
+                "text": "Kopfballtor"
             },
             {
-                "text": "N",
-                "fixed": true
-            },
-            {
-                "text": "G",
-                "fixed": true
-            },
-            {
-                "text": "O",
-                "fixed": true
-            }
-        ],
-        [
-            {
-                "text": "Jemand verletzt sich (stark)",
-                "color": "yellow",
-                "selected": false
-            },
-            {
-                "text": "Kopfballtor",
-                "color": "yellow",
-                "selected": false
-            },
-            {
-                "text": "Latte",
-                "color": "yellow",
-                "selected": false
+                "text": "Latte"
             },
             {
                 "text": "Tore",
-                "color": "yellow",
-                "selected": false,
                 "multiSelectNumber": 5
             },
             {
-                "text": "SIUUUUU",
-                "color": "yellow",
-                "selected": false
+                "text": "SIUUUUU"
             }
         ],
         [
             {
-                "text": "Flitzer",
-                "color": "yellow",
-                "selected": false
+                "text": "Flitzer"
             },
             {
-                "text": "Chefstrobel wird gefronted",
-                "color": "yellow",
-                "selected": false
+                "text": "Chefstrobel wird gefronted"
             },
             {
-                "text": "Pfosten",
-                "color": "yellow",
-                "selected": false
+                "text": "Pfosten"
             },
             {
-                "text": "Alex schießt ein Tor",
-                "color": "yellow",
-                "selected": false
+                "text": "Alex schießt ein Tor"
             },
             {
-                "text": "Fehlentscheidung",
-                "color": "yellow",
-                "selected": false
+                "text": "Fehlentscheidung"
             }
         ],
         [
             {
-                "text": "Elfmeter wird verschossen",
-                "color": "yellow",
-                "selected": false
+                "text": "Elfmeter wird verschossen"
             },
             {
-                "text": "Nici kann es nicht dassen",
-                "color": "yellow",
-                "selected": false
+                "text": "Nici kann es nicht dassen"
             },
             {
-                "text": "5er Subgifts",
-                "color": "yellow",
-                "selected": false
+                "text": "5er Subgifts"
             },
             {
-                "text": "Schlechter Witz",
-                "color": "yellow",
-                "selected": false
+                "text": "Schlechter Witz"
             },
             {
                 "text": "Ecke x5",
-                "color": "yellow",
-                "selected": false,
                 "multiSelectNumber": 5
             }
         ],
         [
             {
-                "text": "Chefstrobel fällt hin",
-                "color": "yellow",
-                "selected": false
+                "text": "Chefstrobel fällt hin"
             },
             {
-                "text": "Abseits",
-                "color": "yellow",
-                "selected": false
+                "text": "Abseits"
             },
             {
-                "text": "Max schießt ein Tor",
-                "color": "yellow",
-                "selected": false
+                "text": "Max schießt ein Tor"
             },
             {
-                "text": "Max sagt geil",
-                "color": "yellow",
-                "selected": false
+                "text": "Max sagt geil"
             },
             {
-                "text": "Mit Schiri wird diskutiert",
-                "color": "yellow",
-                "selected": false
+                "text": "Mit Schiri wird diskutiert"
             }
         ],
         [
             {
-                "text": "Rote Karte",
-                "color": "yellow",
-                "selected": false
+                "text": "Rote Karte"
             },
             {
-                "text": "Freistoßtor",
-                "color": "yellow",
-                "selected": false
+                "text": "Freistoßtor"
             },
             {
-                "text": "Gelbe Karte",
-                "color": "yellow",
-                "selected": false
+                "text": "Gelbe Karte"
             },
             {
-                "text": "Hardstuck gewinnt",
-                "color": "yellow",
-                "selected": false
+                "text": "Hardstuck gewinnt"
             },
             {
-                "text": "Rumathra Shoutout",
-                "color": "yellow",
-                "selected": false
+                "text": "Rumathra Shoutout"
             }
         ]
     ]

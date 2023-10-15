@@ -1,4 +1,7 @@
-# vue3-template
+# Rumathra Hardstuck Bingo
+
+This is a bingo game for the german streamer <a href="//twitch.tv/rumathra">Rumathra</a>.
+
 
 ## Project setup
 ```
