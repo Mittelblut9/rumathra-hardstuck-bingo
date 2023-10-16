@@ -17,7 +17,6 @@
                             :selected="false" 
                             :text="tableContent.text" 
                             :multiSelectNumber="tableContent.multiSelectNumber"
-                            :multiSelectOptions="JSON.stringify(tableContent?.multiSelectOptions)"
                         />
                     </td>
                 </tr>
